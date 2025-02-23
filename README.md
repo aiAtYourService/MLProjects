@@ -9,3 +9,9 @@
 - pre-trained model (mobilenet, mobilenetv2, mobilenetv3)
 - transfer learning
 - custom models
+
+
+
+## Basic ML Concepts:
+Loss function: function used to calc loss value.
+Loss value: way to determine margine of error from guess answer to actual answer
