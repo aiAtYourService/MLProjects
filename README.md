@@ -23,3 +23,4 @@
 - Loss value: way to determine margine of error from guess answer to actual answer, lesser the loss value more are we accurate.
 - Epoch: one complete pass through the training dataset.
 - Batch size: no of training examples used in one iteration.
+
